@@ -8,8 +8,9 @@ Java, Gradle, Android, Paho MQTT Library
 
 ## Changes to the fork origin
 
-* Removed idea specific settings to get clean source code
+* Removed IDE (.idea) specific settings to get clean source code
 * Java language and bytecode target level changed to Java 11
 * Gradle upgrade to version 7.0.2
-* Meet play console requirements (no app bundles with com.example TLD)
-*  
+* Kotlin migration to version 1.5.30
+* Meet play console requirements (package renamed for deployable app bundle)
+* Replaced jcenter maven repository with mavenCentral

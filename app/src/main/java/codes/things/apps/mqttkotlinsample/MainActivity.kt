@@ -20,9 +20,10 @@ class MainActivity : AppCompatActivity() {
 
         /* Check if Internet connection is available */
         if (!isConnected()) {
-            Log.d(this.javaClass.name, "Internet connection NOT available")
+            val msgNoInternetConnection = "Internet connection NOT available"
+            Log.d(this.javaClass.name, msgNoInternetConnection)
 
-            Toast.makeText(applicationContext, "Internet connection NOT available", Toast.LENGTH_LONG).show()
+            Toast.makeText(applicationContext, msgNoInternetConnection, Toast.LENGTH_LONG).show()
         }
     }
 
