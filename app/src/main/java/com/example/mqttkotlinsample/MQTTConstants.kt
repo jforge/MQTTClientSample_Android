@@ -1,4 +1,4 @@
-package com.example.mqttkotlinsample
+package codes.things.apps.mqttkotlinsample
 
 const val MQTT_SERVER_URI_KEY   = "MQTT_SERVER_URI"
 const val MQTT_CLIENT_ID_KEY    = "MQTT_CLIENT_ID"

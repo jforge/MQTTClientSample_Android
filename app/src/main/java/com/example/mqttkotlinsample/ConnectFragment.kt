@@ -1,4 +1,4 @@
-package com.example.mqttkotlinsample
+package codes.things.apps.mqttkotlinsample
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

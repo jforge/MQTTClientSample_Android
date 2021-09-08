@@ -1,4 +1,4 @@
 <menu
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.mqttkotlinsample.MainActivity">
+    tools:context="codes.things.apps.mqttkotlinsample.MainActivity">
 </menu>

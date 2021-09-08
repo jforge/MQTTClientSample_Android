@@ -1,4 +1,4 @@
-package com.example.mqttkotlinsample
+package codes.things.apps.mqttkotlinsample
 
 import android.content.Context
 import android.util.Log
